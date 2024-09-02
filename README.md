@@ -1,8 +1,7 @@
-# Olá! Eu sou o Jhonata 👋
+# Olá! Prazer, eu sou o Jhonata 👋
 
-- 🌱 Atualmente estudando JavaScript, ReactJS & Tailwind-CSS
+- 🌱 Atualmente estudando ReactJS & Tailwind-CSS
 - 📫 Contate-me em: jhonatasenac15@gmail.com
-- 😄 Pronomes: He/Him
 
 ## Tecnologias que eu conheço / já tive contato:
 
